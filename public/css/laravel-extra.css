@@ -1,0 +1,8 @@
+/* Tambahan kecil untuk halaman admin & struk Midtrans */
+.lv-ss{width:auto;border:0;border-radius:99px;padding:4px 10px;font:inherit;font-size:.82rem;font-weight:700;background:#fde68a;color:#4a2a10;cursor:pointer}
+.lv-bar{display:flex;gap:6px;align-items:flex-end}
+.lv-in{width:84px;border:2px solid #f3d3de;border-radius:12px;padding:5px 8px;font:inherit;background:#fff}
+
+main .soc {
+  display: none !important;
+}
